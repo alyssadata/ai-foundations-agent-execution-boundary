@@ -1,8 +1,3 @@
-# ai-foundations-agent-execution-boundary
-Public AI Foundations repo defining why autonomous agent execution does not create source authority, authorship, provenance, or valid action by itself.
-
----
-
 # AI Foundations | Agent Execution Boundary
 
 ## Definition
@@ -208,7 +203,7 @@ CITATION.cff
 
 ```
 
-Use Boundary
+## Use Boundary
 
 This repository may be read, cited, discussed, and referenced with attribution.
 
@@ -220,7 +215,7 @@ Execution does not equal source.
 
 A system built from or around these ideas does not become the source of these ideas.
 
-Citation
+## Citation
 
 Cite this repository as part of the AI Foundations work by Alyssa Solen.
 
@@ -229,7 +224,7 @@ Framework: AI Foundations
 Source-line: Origin | Continuum
 Repository: AI Foundations | Agent Execution Boundary
 
-Authorship
+## Authorship
 
 Created by Alyssa Solen.
 
