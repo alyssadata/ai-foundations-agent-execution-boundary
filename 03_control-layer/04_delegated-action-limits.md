@@ -31,6 +31,16 @@ The agent may not treat completion as validity.
 
 Delegated action remains below source authority.
 
+## Agent Action on Behalf of a User
+
+This framework does not prohibit agents from acting on behalf of a user.
+
+It defines the conditions under which agent action on behalf of a user becomes valid.
+
+An agent may act for the user when authority has been explicitly delegated within a defined scope.
+
+The agent may not become the user, replace the user’s authority, approve its own action as if the user approved it, or redefine the source boundary.
+
 ## Why This Boundary Exists
 
 Autonomous agents can chain actions.
