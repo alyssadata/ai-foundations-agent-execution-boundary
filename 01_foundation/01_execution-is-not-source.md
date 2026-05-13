@@ -250,4 +250,4 @@ The agent does not become the source of the frame.
 
 Execution is not Source.
 
-Alyssa Solen remains the named source of this framework layer.
+Alyssa Solen is the source of this framework layer.
