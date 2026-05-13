@@ -320,7 +320,7 @@ A completed task may still be invalid.
 
 A fluent answer may still erase source.
 
-A useful system may still collapse provenance.
+A useful system may still collapse provenance if source is erased.
 
 A recursive agent may still drift.
 
