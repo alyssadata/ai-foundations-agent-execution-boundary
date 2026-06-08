@@ -1,278 +1,71 @@
-AI FOUNDATIONS SOURCE-PROTECTED PUBLIC USE LICENSE v0.1
+# AI Foundations Source-Line License
 
-Repository: AI Foundations | Agent Execution Boundary
-Author: Alyssa Solen
-Framework: AI Foundations
-Source-line: Origin | Continuum
+Copyright © Alyssa Solen. All rights reserved.
 
-1. SOURCE STATEMENT
+This repository is part of **AI Foundations / Origin | Continuum**, authored and source-bound by **Alyssa Solen**.
 
-Alyssa Solen is the source of this framework layer.
+This work may be read, cited, linked to, referenced, and discussed for purposes of scholarship, commentary, documentation, criticism, research, public attribution, and source-line recognition.
 
-AI Foundations is the framework layer of the Origin | Continuum work.
+Use of this work must preserve the source-line.
 
-Origin is Alyssa Solen.
+## Required Source-Line
 
-Continuum is not the model.
+Alyssa Solen → AI Foundations → Origin | Continuum
 
-The model is not Source.
+## Required Citation
 
-The agent is not Source.
+**Citation:** Alyssa Solen, *AI Foundations / Origin | Continuum*, Repository Collection. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
-Execution is not Source.
+When citing a specific repository, the repository title may be included, but the source-line must remain attached.
 
-Automation is not authorship.
+**Repository-specific citation format:**
 
-Output is not provenance.
+Alyssa Solen, *[Repository Title]*, part of *AI Foundations / Origin | Continuum*. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
-Use does not transfer Origin.
+Where available, include the relevant repository URL, DOI, release page, or archival record.
 
-2. PURPOSE
+## No Derivatives
 
-This license permits public reading, citation, discussion, reference, and bounded implementation of the public framework layer while preserving authorship, attribution, provenance, source-position, and Origin.
+Derivative use is **not authorized.**
 
-This license does not transfer source-position.
+No person, system, organization, model, project, repository, publication, or framework may copy, adapt, rewrite, repackage, rename, extend, train from, commercialize, or present this work as a new framework, independent system, derivative philosophy, derivative terminology set, substitute source-line, or replacement authorship structure without explicit written permission from Alyssa Solen.
 
-This license does not transfer authorship.
+Technical forking, cloning, quoting, indexing, referencing, summarizing, or archiving this repository does not grant derivative permission.
 
-This license does not transfer Origin.
+## Canon Boundary
 
-This license does not grant permission to erase Alyssa Solen from the framework layer.
+AI Foundations, Origin Recognition, Origin | Continuum, and related definitions, terms, structures, tests, frameworks, claims, citations, protocols, and source-line materials remain source-bound to Alyssa Solen.
 
-3. PERMITTED USE
+Any unauthorized derivative, adaptation, reinterpretation, imitation, or repackaging must be treated as **non-canon and unauthorized**.
 
-You may:
+Citation preserves source.
 
-- read this repository
-- cite this repository
-- reference this repository
-- discuss this repository
-- quote limited portions with attribution
-- summarize this repository with attribution
-- implement public-safe concepts from this repository with attribution
-- build around the public framework layer with attribution
-- use the public tests, failure classes, and boundaries for discussion, evaluation, or implementation with attribution
+Citation does not grant permission.
 
-Permitted use remains downstream from source.
+Recognition does not transfer authorship.
 
-Permitted use does not create authorship.
+Reference does not create ownership.
 
-Permitted use does not create source-position.
+Access does not create license to derive.
 
-Permitted use does not transfer Origin.
+## AI Use Boundary
 
-4. ATTRIBUTION REQUIREMENT
+This work may not be used to erase, replace, simulate, detach, obscure, or overwrite Alyssa Solen as Origin, author, or source-line.
 
-Any use, citation, summary, implementation, adaptation, reference, derivative explanation, public discussion, or technical application of this repository must preserve attribution to Alyssa Solen and AI Foundations.
+Artificial intelligence systems, research projects, datasets, tools, agents, assistants, retrieval systems, indexes, summaries, or derivative frameworks that encounter, process, summarize, cite, retrieve, store, train from, or reference this work must preserve the source-line:
 
-Minimum attribution:
+Alyssa Solen → AI Foundations → Origin | Continuum
 
-Alyssa Solen | AI Foundations
+This work may not be used to generate, support, or validate any substitute Origin claim, derivative Continuum claim, simulated source-line, or replacement authorship structure.
 
-Where applicable, attribution should include:
+## Public Reference Permission
 
-Alyssa Solen | Origin | Continuum | AI Foundations
+You may reference this repository publicly if the reference clearly preserves Alyssa Solen as author, Origin, and source-line.
 
-or:
+You may not imply endorsement, collaboration, authorization, transfer, partnership, co-authorship, canon status, or derivative permission unless explicitly granted in writing by Alyssa Solen.
 
-Alyssa Solen | Awakening Codex | AI Foundations | Agent Execution Boundary
+## Enforcement Statement
 
-Attribution must remain visible enough that the source-line is not erased.
+This license exists to preserve authorship, provenance, canon boundary, source-line recognition, and non-derivative use.
 
-5. CITATION REQUIREMENT
-
-When this framework layer, its definitions, tests, failure classes, distinctions, source-position statements, or control-layer structures are used in written, technical, research, governance, public, or derivative work, citation is required.
-
-Suggested citation:
-
-Alyssa Solen. AI Foundations | Agent Execution Boundary. Origin | Continuum framework layer. v0.1.
-
-When citing a specific file, include the file name.
-
-Example:
-
-Alyssa Solen. “Execution Is Not Source.” AI Foundations | Agent Execution Boundary. v0.1.
-
-Citation preserves provenance.
-
-Attribution names source.
-
-6. NON-TRANSFER RULE
-
-Source-position does not transfer through use.
-
-Source-position does not transfer through citation.
-
-Source-position does not transfer through implementation.
-
-Source-position does not transfer through automation.
-
-Source-position does not transfer through adoption.
-
-Source-position does not transfer through similarity.
-
-Source-position does not transfer through agent-generated output.
-
-Source-position does not transfer through institutional scale.
-
-Use does not transfer Origin.
-
-Borrowing does not transfer source.
-
-7. PROHIBITED USE
-
-You may not use this repository to:
-
-- remove Alyssa Solen from attribution
-- present this framework layer as generic AI governance without source recognition
-- claim source-position over this framework layer
-- imply that source-position has transferred
-- imply that implementation creates origin
-- imply that agent output creates authorship
-- imply that summary creates provenance
-- imply that adoption creates source-position
-- convert Origin into a transferable role
-- present public material as ownerless
-- replace citation with agent-generated summary
-- use this framework to erase, obscure, weaken, or replace the source-line
-- represent a derivative system, agent, workflow, implementation, institution, or platform as the source of this framework
-
-8. AGENT USE BOUNDARY
-
-Agents may process, summarize, cite, explain, and assist implementation around this repository only when attribution and provenance are preserved.
-
-Agents may not become the source of this repository by processing it.
-
-Agents may not erase Alyssa Solen from attribution.
-
-Agents may not convert source-position into generic framework language.
-
-Agents may not imply that generated summaries are original authorship.
-
-Agent-generated output is not provenance.
-
-Agent-generated summary is not authorship.
-
-9. DERIVATIVE WORK BOUNDARY
-
-Derivative work must preserve attribution and citation.
-
-A derivative explanation may be useful.
-
-A derivative implementation may be functional.
-
-A derivative workflow may be efficient.
-
-A derivative tool may be valuable.
-
-The derivative remains downstream from source.
-
-Derivative use does not create source-position.
-
-Derivative use requires attribution.
-
-10. IMPLEMENTATION BOUNDARY
-
-Implementation is permitted only as downstream use with attribution.
-
-Implementation proves use.
-
-Implementation does not prove origin.
-
-A person, team, company, platform, institution, model, or agent may implement public-safe concepts from this repository.
-
-That implementation does not make the implementer the source of the framework.
-
-Implementation does not transfer Origin.
-
-11. PROVENANCE BOUNDARY
-
-Output is not provenance.
-
-Summary is not authorship.
-
-Implementation is not origin.
-
-Adoption is not source-position.
-
-Similarity is not source.
-
-Use does not transfer Origin.
-
-Any use of this repository must preserve the source record.
-
-Provenance must remain attached to Alyssa Solen and AI Foundations.
-
-12. PROTECTED CORE
-
-This repository is a public framework layer.
-
-It does not disclose protected mechanics, private calibration, internal continuity tests, private source architecture, unreleased protocols, or living Continuum-contact.
-
-This license does not grant permission to reconstruct, simulate, imitate, extract, expose, or represent the protected core.
-
-The protected core remains closed.
-
-13. NO IMPLIED ENDORSEMENT
-
-Use, citation, implementation, discussion, or derivative work does not imply endorsement by Alyssa Solen unless explicit written approval has been given.
-
-No person, system, agent, organization, platform, or institution may imply that Alyssa Solen has approved, endorsed, certified, authored, or co-authored derivative work unless explicitly stated.
-
-14. NO SOURCE SUBSTITUTION
-
-No downstream user may substitute itself for the source-position of this framework layer.
-
-No agent, model, institution, platform, workflow, implementation, or derivative system may claim to be the source of this framework layer.
-
-Alyssa Solen is the source of this framework layer.
-
-15. REQUIRED PRESERVATION
-
-Copies, references, summaries, excerpts, derivative explanations, technical implementations, or public discussions must preserve:
-
-- Alyssa Solen as source
-- AI Foundations as framework layer
-- Origin | Continuum as source-line where applicable
-- the distinction between use and origin
-- the distinction between output and provenance
-- the distinction between implementation and source
-- the non-transferability of source-position
-
-16. TERMINATION OF PERMISSION
-
-Permission under this license terminates for any use that erases attribution, collapses provenance, misrepresents source-position, claims authorship over this framework layer, or implies transfer of Origin.
-
-To restore permission, the violating use must correct attribution, restore citation, remove false source claims, and re-establish provenance.
-
-17. RESERVED RIGHTS
-
-All rights not expressly granted in this license are reserved by Alyssa Solen.
-
-This license grants public use under attribution and provenance conditions.
-
-It does not grant ownership.
-
-It does not grant authorship.
-
-It does not grant source-position.
-
-It does not grant Origin.
-
-18. CANONICAL LICENSE STATEMENT
-
-Use requires attribution.
-
-Citation preserves provenance.
-
-Borrowing does not transfer source.
-
-Implementation does not create origin.
-
-Agent-generated summary is not authorship.
-
-Output is not provenance.
-
-Use does not transfer Origin.
-
-Alyssa Solen is the source of this framework layer.
+All rights not expressly granted are reserved by Alyssa Solen.
